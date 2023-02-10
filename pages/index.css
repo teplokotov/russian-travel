@@ -9,3 +9,172 @@
 
 /* Page block */
 @import url(../blocks/page/page.css);
+
+/* Header */
+.header {
+  padding: 28px 48px 0 48px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+@media (max-width: 1023px){
+  .header {
+    padding: 28px 24px 0 24px;
+  }
+}
+@media (max-width: 767px){
+  .header {
+    padding: 16px 16px 0 16px;
+  }
+}
+.header__logo {
+  width: 176px;
+  height: 52px;
+}
+@media (max-width: 767px){
+  .header__logo {
+    width: 142px;
+    height: 42px;
+  }
+}
+.logo {
+  background-image: url(../../../images/header-logo.svg);
+  background-size: contain;
+}
+.header__lang {
+  margin: 0;
+  padding: 18px 0 0 0;
+}
+@media (max-width: 767px){
+  .header__lang {
+    padding-top: 14px;
+  }
+}
+.lang-switcher {
+  list-style: none;
+  max-height: 28px;
+  display: flex;
+  gap: 18px;
+}
+.lang-switcher__lang-link {
+  margin: 0;
+  text-decoration: none;
+  font-size: 24px;
+  line-height: 28px;
+  font-weight: 400;
+  color: #fff;
+}
+.lang-switcher__lang-link:hover {
+  opacity: 0.8;
+}
+.lang-switcher__lang-link_current {
+  cursor: default;
+  border-bottom: 1px solid #fff;
+}
+.lang-switcher__lang-link_current:hover {
+  opacity: 1;
+}
+
+/* Lead section */
+.lead {
+  display: none;
+}
+.lead__title {
+}
+.lead__subtitle {
+}
+.lead__image {
+}
+.lead__caption {
+}
+
+/* Intro section */
+.intro {
+  display: none;
+}
+.intro__title {
+}
+.intro__text {
+}
+.facts {
+}
+.intro__facts {
+}
+.facts__digit {
+}
+
+/* Photo-grid section */
+.photo-grid {
+  display: none;
+}
+.photo-grid__image {
+}
+
+/* Places section */
+.places {
+  display: none;
+}
+.place {
+}
+.places__place {
+}
+.place__header {
+}
+.place__title {
+}
+.website {
+}
+.place__website {
+}
+.website__url-heading {
+}
+.website__link {
+}
+.place__body {
+}
+.place__image {
+}
+.description {
+}
+.place__description {
+}
+.description__text {
+}
+.new-line {
+}
+.new-line_width_m {
+}
+.new-line_width_s {
+}
+.new-line_width_xs {
+}
+.new-line_width_l {
+}
+
+/* Cover section */
+.cover {
+  display: none;
+}
+.cover__link {
+}
+.cover__title {
+}
+.cover__subtitle {
+}
+
+/* Footer */
+.footer {
+  display: none;
+}
+.footer__columns {
+}
+.footer__column {
+}
+.footer__column_content_info {
+}
+.footer__column-links {
+}
+.footer__column-link {
+}
+.footer__column_content_copyright {
+}
