@@ -4,5 +4,8 @@
 /* Fonts */
 @import url(../vendor/fonts.css);
 
-/* General Page block */
+/* Body block */
+@import url(../blocks/body/body.css);
+
+/* Page block */
 @import url(../blocks/page/page.css);
