@@ -2,7 +2,7 @@
 ## Описание проекта
 Проект Спринта №2 Яндекс Практикума
 - Задание: [Ссылка](https://github.com/yandex-praktikum/russian-travel)
-- Результат: [Ссылка](https://github.com/teplokotov/russian-travel/)
+- Результат: [Ссылка](https://teplokotov.github.io/russian-travel/)
 - Отправлен на проверку 13.02.2023 / дедлайн 05.03.2023
 - Автор: Филипп Добриков, студент 23 когорты Web+
 ## Используемые материалы
