@@ -1,0 +1,21 @@
+.lang-switcher__lang-link {
+  margin: 0;
+  text-decoration: none;
+  font-size: 24px;
+  line-height: 28px;
+  font-weight: 400;
+  color: #fff;
+  text-underline-position: under;
+  transition: opacity 0.1s linear;
+}
+
+.lang-switcher__lang-link:hover {
+  opacity: 0.8;
+}
+
+@media (max-width: 767px) {
+  .lang-switcher__lang-link {
+    font-size: 18px;
+    line-height: 20px;
+  }
+}

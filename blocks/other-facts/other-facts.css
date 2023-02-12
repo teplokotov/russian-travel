@@ -1,0 +1,15 @@
+.other-facts {
+  margin: 0;
+  padding: 33px 0 0 0;
+  list-style: none;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 18px;
+  color: #fff;
+}
+
+@media (max-width: 767px) {
+  .other-facts {
+    padding: 34px 0 0 0;
+  }
+}

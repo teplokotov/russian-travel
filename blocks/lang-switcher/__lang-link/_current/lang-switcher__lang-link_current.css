@@ -1,0 +1,8 @@
+.lang-switcher__lang-link_current {
+  cursor: default;
+  text-decoration: underline;
+}
+
+.lang-switcher__lang-link_current:hover {
+  opacity: 1;
+}
