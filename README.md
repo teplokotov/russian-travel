@@ -5,6 +5,8 @@
 - Результат: [Ссылка](https://teplokotov.github.io/russian-travel/)
 - Отправлен на проверку 13.02.2023 / дедлайн 05.03.2023
 - Автор: Филипп Добриков, студент 23 когорты Web+
+## История проверки
+1) 13.02.2023: Проект вернули на доработку: 11 ошибок, 8 рекомендаций
 ## Используемые материалы
 - [Макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
 - [Стандарты Яндекс.Практикума по оформлению HTML и CSS кода](https://code.s3.yandex.net/web-developer/static/design-rules/index.html)
