@@ -42,12 +42,11 @@
 
 /* Places section */
 @import url(../blocks/places/places.css);
-@import url(../blocks/place/__header/place__header.css);
+@import url(../blocks/place/place.css);
 @import url(../blocks/place/__title/place__title.css);
 @import url(../blocks/place/__website/place__website.css);
 @import url(../blocks/website/__url-heading/website__url-heading.css);
 @import url(../blocks/website/__link/website__link.css);
-@import url(../blocks/place/__body/place__body.css);
 @import url(../blocks/place/__image/place__image.css);
 @import url(../blocks/description/description.css);
 @import url(../blocks/description/__text/description__text.css);

@@ -1,5 +1,11 @@
 .place__website {
+  align-self: self-end;
   display: flex;
   flex-direction: column;
   gap: 12px;
+}
+@media (max-width: 767px) {
+  .place__website {
+    padding: 0 16px;
+  }
 }
